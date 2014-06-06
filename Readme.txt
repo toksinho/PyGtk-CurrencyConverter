@@ -1,0 +1,1 @@
+Currency converter written in Python 2.7.6 with GTK Gui library.
